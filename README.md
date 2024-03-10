@@ -1,1 +1,3 @@
 # leaflet_challenge
+
+This week's challenge uses Leaflet within Javascript in order to map out earthquake occurrences sourced from data provided by the United States Geological Survey. Earthquake occurrences are plotted on a map according to their longitude and latitude. Each marker size reflects the magnitude of the earthquake and the color according to their depth. Users can click on each marker to display a pop up message displaying more in depth information about each earthquake occurrence. Tools for completing the code include course information provided by the University of California Berkeley Data Analytics program.
